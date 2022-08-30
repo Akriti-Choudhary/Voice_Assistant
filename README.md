@@ -1,5 +1,5 @@
 # Voice_Assistant
-<h2>Voice assistant using python 🐍 </h2> <div>![PythonPoweredGIF](https://user-images.githubusercontent.com/93141098/187508282-9819ba1d-aa42-46cb-8cc4-434eeffb7fe8.gif)</div>
+<class name = heading ><h2>Voice Assistant using Python 🐍 </h2></class><div> ![PythonPoweredGIF (2)](https://user-images.githubusercontent.com/93141098/187509744-e2a46b78-f7b1-4b4c-8aa6-fcf9cd52abe6.gif) </div>
 <br> Packages included are -
 <h3><li> speech_recognition</li></h3> -> Library for performing speech recognition, with support for several engines and APIs, online and offline.
 <h3><li>pyttsx3</li></h3> -> pyttsx3 is a text-to-speech conversion library in Python. Unlike alternative libraries, it works offline, and is compatible with both Python 2 and 3.
